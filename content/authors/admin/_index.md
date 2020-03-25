@@ -14,7 +14,7 @@ role: Postdoc Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Earth and Planets Laboratory, Carnegie Institution for Science xxx
+- name: Earth and Planets Laboratory, Carnegie Institution for Science
   url: "https://dtm.carnegiescience.edu/"
 
 # Short bio (displayed in user profile at end of posts)
