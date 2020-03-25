@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Shuang Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Earth and Planets Laboratory, Carnegie Institution for Science
+  url: "https://dtm.carnegiescience.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Shuang Zhang is a postdoc fellow focusing on the global carbon cycle
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Global carbon cycle
+- Climate Change
+- Geospatial data analysis
+- Machine learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Geochemistry
+    institution: Yale University
+    year: 2017
+  - course: B.S. in Geology
+    institution: Peking University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Shuang Zhang.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am a Postdoctoral Fellow in Dr. Hazen's lab in Carnegie Institution’s Earth and Planets Laboratory. My research interests are centered on two main areas: 1) refine our understanding of the global carbon cycle and its impact on the Earth surface system, especially under periods of climatic perturbations, and 2) natural clustering of minerals and explore the co-evolution of the geo- and biospheres. My research expertise includes large-scale geospatial data analysis, numerical modeling and high-performance computing, machine learning and geological application development.
+
+Besides academic research, I am fond of photography and web design. Feel free to contact me if you are interested in what I am doing.
