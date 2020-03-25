@@ -1,0 +1,19 @@
+# Theme metadata
+name = "oceancustom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#28aae2" # the twitter logo etc. and it will not change on light and dark
+
+# Menu
+menu_primary = "#fff" # 500 # menu bar background color
+menu_text = "#333" # manu bar text color
+menu_text_active = "#28aae2" # A100 # manu bar text active color
+menu_text_hover = "#28aae2" # A100 # manu bar text active color
+menu_title = "#333" # manu bar title color
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

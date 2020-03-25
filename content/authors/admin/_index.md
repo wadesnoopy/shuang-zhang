@@ -40,18 +40,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=DR1TDCwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wadesnoopy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow in Dr. Hazen's lab in Carnegie Institution’s Earth and Planets Laboratory. My research interests are centered on two main areas: 1) refine our understanding of the global carbon cycle and its impact on the Earth surface system, especially under periods of climatic perturbations, and 2) natural clustering of minerals and explore the co-evolution of the geo- and biospheres. My research expertise includes large-scale geospatial data analysis, numerical modeling and high-performance computing, machine learning and geological application development.
+I am a Postdoctoral Fellow in [Dr. Hazen's lab](http://hazen.carnegiescience.edu/) in Carnegie Institution’s Earth and Planets Laboratory. My research interests are centered on two main areas: 1) refine our understanding of the global carbon cycle and its impact on the Earth surface system, especially under periods of climatic perturbations, and 2) natural clustering of minerals and explore the co-evolution of the geo- and biospheres. My research expertise includes large-scale geospatial data analysis, numerical modeling and high-performance computing, machine learning and geological application development.
 
 Besides academic research, I am fond of photography and web design. Feel free to contact me if you are interested in what I am doing.
