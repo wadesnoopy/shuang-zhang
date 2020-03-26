@@ -8,6 +8,20 @@
   url = "#about"
   weight = 10
 
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
+
+
+[[main]]
+  name = "Photography"
+  url = "https://www.flickr.com/photos/90538713@N07"
+  weight = 60
+
+
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -23,10 +37,7 @@
 #   url = "#skills"
 #   weight = 60
 
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 50
+
 
 # # Link to a PDF of your resume/CV from the menu.
 # # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -37,10 +48,7 @@
 #    weight = 50
 
 
-[[main]]
-  name = "Photography"
-  url = "https://www.flickr.com/photos/90538713@N07"
-  weight = 60
+
 
 # [[main]]
 #   name = "Contact"
