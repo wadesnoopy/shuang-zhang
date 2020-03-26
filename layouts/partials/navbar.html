@@ -68,13 +68,12 @@
         {{ else }}
 
         {{/* Set target for link. */}}
-        <!-- {{ $.Scratch.Set "target" "" }} -->
-        <!-- {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }} -->
-<!--         {{ if gt (len .URL) 4 }}
+        {{ $.Scratch.Set "target" "" }}
+        {{ if gt (len .URL) 4 }}
           {{ if eq "http" (slicestr .URL 0 4) }}
             {{ $.Scratch.Set "target" " target=\"_blank\" rel=\"noopener\"" }}
           {{ end }}
-        {{ end }} -->
+        {{ end }}
 
         {{/* Get active page. */}}
         {{ $is_link_in_current_path := in $current_page.RelPermalink .URL }}
