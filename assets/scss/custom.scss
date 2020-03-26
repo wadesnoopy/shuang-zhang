@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'Coldiac';
+  src: url('fonts/Coldiac.ttf') format('truetype'),
+  	   url('fonts/Coldiac.otf') format('truetype');;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Coldiac';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Coldiac'), url('fonts/Coldiac.ttf');
+}
+
+
+.navbar {
+	font-size: 0.9rem;
+}
+
+
 a:hover {
 	color: #28aae2 !important;
 }
@@ -10,10 +31,33 @@ a:hover {
   font-size: 1.5rem;
 }
 
+.navbar-brand {
+	/*font-family: classic;*/
+	/*font-weight: lighter;*/
+	/*font-style: normal;*/
+}
+
+
+.portrait-title h2 {
+	font-size: 1.5rem;
+}
+
 .portrait-title h3 {
 	font-size: 0.9rem;
 }
 
-.navbar {
-	font-size: 0.9rem;
+ul.ul-interests li {
+  font-size: 1rem; 
 }
+
+ul.ul-edu li .description p.course {
+  font-size: 1rem; 
+}
+
+
+ul.ul-edu li .description p.institution {
+  font-size: 0.85rem;
+  color: rgba(0, 0, 0, 0.6); 
+}
+
+

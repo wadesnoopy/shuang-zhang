@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Shuang Zhang
+name: Shuang Fellow
+# name: Shuang <span style="color:red">Fellow</span>
 
 # Username (this should match the folder name)
 authors:
@@ -11,6 +12,7 @@ superuser: true
 
 # Role/position
 role: Postdoc Fellow
+# role: Postdoc <span style="color:red">Fellow</span>
 
 # Organizations/Affiliations
 organizations:
