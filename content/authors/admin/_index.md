@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shuang Fellow
+name: Shuang Zhang
 # name: Shuang <span style="color:red">Fellow</span>
 
 # Username (this should match the folder name)
