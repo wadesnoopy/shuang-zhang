@@ -78,4 +78,4 @@ user_groups:
 
 I am a Postdoctoral Fellow in [Dr. Hazen's lab](http://hazen.carnegiescience.edu/) in Carnegie Institution’s Earth and Planets Laboratory. My research interests are centered on two main areas: 1) refine our understanding of the global carbon cycle and its impact on the Earth surface system, especially under periods of climatic perturbations, and 2) natural clustering of minerals and explore the co-evolution of the geo- and biospheres. My research expertise includes large-scale geospatial data analysis, numerical modeling and high-performance computing, machine learning and geological application development.
 
-Besides academic research, I am fond of photography and web design. Feel free to contact me if you are interested in what I am doing.
+Besides academic research, I am fond of photography and video design. Feel free to contact me if you are interested in what I am doing.
