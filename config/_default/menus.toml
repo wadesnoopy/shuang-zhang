@@ -21,10 +21,10 @@
   weight = 50
 
 
-[[main]]
-  name = "Photography"
-  url = "https://www.flickr.com/photos/90538713@N07"
-  weight = 60
+# [[main]]
+#   name = "Photography"
+#   url = "https://www.flickr.com/photos/90538713@N07"
+#   weight = 60
 
 
 

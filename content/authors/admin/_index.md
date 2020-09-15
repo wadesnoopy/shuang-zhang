@@ -15,14 +15,14 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Earth and Planets Laboratory, Carnegie Institution for Science
-  url: "https://dtm.carnegiescience.edu/"
+- name: Department of Oceanography at Texas A&M University
+  url: "https://ocean.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shuang Zhang loves exploring the global carbon cycle and climate change through data analysis and machine learning.
+bio: Shuang Zhang loves exploring the global biogeochemical cycles through numerical modeling and data science.
 
 interests:
-- Global carbon cycle
+- Global carbon/biogeochemical cycles
 - Climate Change
 - Co-evolution of geosphere and biosphere
 - Data Science
@@ -75,6 +75,13 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Fellow in [Dr. Hazen's lab](http://hazen.carnegiescience.edu/) in Carnegie Institution’s Earth and Planets Laboratory. My research interests are centered on two main areas: 1) refine our understanding of the global carbon cycle and its impact on the Earth surface system, especially under periods of climatic perturbations, and 2) natural clustering of minerals and explore the co-evolution of the geo- and biospheres. My research expertise includes large-scale geospatial data analysis, numerical modeling and high-performance computing, machine learning and geological application development.
+I am starting a tenure-track faculty position in the Department of Oceanography at Texas A&M University, located in College Station, Texas, USA in Jan, 2021.
 
-Besides academic research, I am fond of photography and video design. Feel free to contact me if you are interested in what I am doing.
+I am an interdisciplinary geochemist, modeler and data scientist. My research broadly uses data-driven and model-driven approaches to quantify the fluxes and associated isotopes in the global carbon and biogeochemical cycle and to understand the forces at work behind those cycles, especially under periods of climatic perturbations.
+
+My research group will focus on extensive data mining, data assimilation, large-scale spatial-temporal data analysis, and machine learning. We believe geo-statistics and machine learning could reveal the intrinsic patterns of nature’s processes that are sometimes extremely difficult to be captured by classical physical process models. With that being said, in areas where data is extremely limited or data-driven approaches are not suitable, numerical modeling (for example, modeling the global carbon cycle) is also a critical component in my group.
+
+I am currently recruiting MS and PhD students to join my research group. Interested students should check this [departmental website](https://ocean.tamu.edu/academics/graduate-programs/index.html) for the admission requirements.
+
+I strongly encourage prospective students to reach out to me by [email](mailto:shuanggang111@gmail.com) to learn more about opportunities in my research group.
+
