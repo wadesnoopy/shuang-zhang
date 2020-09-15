@@ -11,8 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc Fellow
-# role: Postdoc <span style="color:red">Fellow</span>
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
