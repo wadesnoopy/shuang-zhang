@@ -36,7 +36,8 @@ education:
     institution: Peking University
     year: 2011
 
-
+social:
+  
 - icon: envelope
   icon_pack: fas
   link: "mailto:shuanggang111@gmail.com"  # For a direct email link, use "mailto:test@example.org".
