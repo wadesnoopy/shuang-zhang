@@ -22,9 +22,9 @@ organizations:
 bio: Shuang Zhang loves exploring the global biogeochemical cycles through numerical modeling and data science.
 
 interests:
-- Global carbon/biogeochemical cycles
-- Climate Change
-- Co-evolution of geosphere and biosphere
+- Global biogeochemical cycles
+- Climate change
+- numerical modeling
 - Data Science
 
 education:
@@ -75,13 +75,12 @@ user_groups:
 - Visitors
 ---
 
-I am starting a tenure-track faculty position in the Department of Oceanography at Texas A&M University, located in College Station, Texas, USA in Jan, 2021.
+I am starting a tenure-track faculty position in the Department of Oceanography at Texas A&M University (located in College Station, Texas USA) in Jan, 2021.
 
-I am an interdisciplinary geochemist, modeler and data scientist. My research broadly uses data-driven and model-driven approaches to quantify the fluxes and associated isotopes in the global carbon and biogeochemical cycle and to understand the forces at work behind those cycles, especially under periods of climatic perturbations.
+I am an interdisciplinary geochemist, modeler and data scientist. My research broadly uses data-driven and model-driven approaches to quantify the patterns of element flux and isotope behavior involved in the global carbon and biogeochemical cycles, especially under periods of climatic perturbations.
 
-My research group will focus on extensive data mining, data assimilation, large-scale spatial-temporal data analysis, and machine learning. We believe geo-statistics and machine learning could reveal the intrinsic patterns of nature’s processes that are sometimes extremely difficult to be captured by classical physical process models. With that being said, in areas where data is extremely limited or data-driven approaches are not suitable, numerical modeling (for example, modeling the global carbon cycle) is also a critical component in my group.
+Extensive data mining, data assimilation, large-scale spatial-temporal statistical analysis, and machine learning are frequently used by my research group. We believe geo-statistics and machine learning could reveal the intrinsic patterns of nature’s processes that are sometimes extremely difficult to be captured by classical physical process models. With that being said, in areas where data is extremely limited or data-driven approaches are not suitable, numerical modeling (e.g., modeling the global carbon cycle) also serves as a critical tool in our research.
 
-I am currently recruiting MS and PhD students to join my research group. Interested students should check this [departmental website](https://ocean.tamu.edu/academics/graduate-programs/index.html) for the admission requirements.
 
-I strongly encourage prospective students to reach out to me by [email](mailto:shuanggang111@gmail.com) to learn more about opportunities in my research group.
+I am currently recruiting MS and PhD students to join my research group. Interested students should check our [departmental website](https://ocean.tamu.edu/academics/graduate-programs/index.html) for the admission requirements. I strongly encourage prospective students to reach out to me by [email](mailto:shuanggang111@gmail.com) to learn more about opportunities in my research group.
 
