@@ -33,6 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2020-09-15T20:11:42.761146Z'
+author_list: "Mingyu Zhao, <b>Shuang Zhang</b>, Lidya G. Tarhan, Christopher T. Reinhard, Noah J. Planavsky"
 publication_types:
 - 2
 abstract: The marine phosphorus cycle plays a critical role in controlling the extent
