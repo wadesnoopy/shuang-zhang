@@ -7,19 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Yang Li
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Richard Hobbs
 - Camila Caiado
 - Adam D. Sproson
 - David Selby
 - Alan D. Rooney
-tags:
-- '"Monte Carlo"'
-- '"Linear regression"'
-- '"Geochronology"'
-- '"Isochron"'
-- '"Isoplot"'
-- '"Uncertainty propagation"'
+tags: []
 categories: []
 date: '2019-02-01'
 lastmod: 2020-09-15T20:23:46-04:00
@@ -62,6 +56,5 @@ abstract: Geochronology is essential for understanding Earth’s history. The av
   regressions such as Rb-Sr, Sm-Nd, Re-Os, Pt-Os, Lu-Hf, U-Pb (with discordant points),
   Pb-Pb and Ar-Ar.
 publication: '*Science Bulletin*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S2095927318305887
 doi: 10.1016/j.scib.2018.12.019
 ---

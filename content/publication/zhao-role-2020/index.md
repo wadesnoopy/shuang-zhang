@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Mingyu Zhao
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Lidya G. Tarhan
 - Christopher T. Reinhard
 - Noah Planavsky
@@ -49,6 +49,5 @@ abstract: The marine phosphorus cycle plays a critical role in controlling the e
   coupling between Phanerozoic tectonic cycles, the major-element composition of seawater,
   the marine phosphorus cycle, and atmospheric pO2.
 publication: '*Nature Communications*'
-url_pdf: https://www.nature.com/articles/s41467-020-15673-3
 doi: 10.1038/s41467-020-15673-3
 ---

@@ -11,15 +11,10 @@ authors:
 - E. M. Stewart
 - J. J. Ague
 - E. W. Bolton
-- S. Zhang
+- <b>S. Zhang</b>
 - N. R. McKenzie
 - L. R. Kump
-tags:
-- '"Degassing"'
-- '"Climate"'
-- '"Weathering"'
-- '"Carbon Cycle"'
-- '"Reverse Weathering"'
+tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-15T20:23:46-04:00
@@ -64,6 +59,5 @@ abstract: The existence of stabilizing feedbacks within Earth's climate system i
   carbon recycling within the ocean-atmosphere system via reverse weathering—that
   in turn acted to elevate ocean-atmosphere CO2 levels.
 publication: '*Global Biogeochemical Cycles*'
-url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006061
 doi: 10.1029/2018GB006061
 ---

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Alexander J. Krause
 - Benjamin J. W. Mills
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Noah J. Planavsky
 - Timothy M. Lenton
 - Simon W. Poulton
@@ -51,6 +51,5 @@ abstract: Oxygen is essential for animal life, and while geochemical proxies hav
   Oxygenation Event, which likely contributed to the observed radiation of complex,
   diverse fauna at this time.
 publication: '*Nature Communications*'
-url_pdf: https://www.nature.com/articles/s41467-018-06383-y
 doi: 10.1038/s41467-018-06383-y
 ---

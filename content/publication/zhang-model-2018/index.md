@@ -5,17 +5,12 @@ title: 'Model based Paleozoic atmospheric oxygen estimates: a revisit to GEOCARB
 subtitle: ''
 summary: ''
 authors:
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Noah J. Planavsky
 - Alexander J. Krause
 - Edward W. Bolton
 - Benjamin J. W. Mills
-tags:
-- '"Paleozoic"'
-- '"atmospheric O2"'
-- '"carbonate isotope"'
-- '"GEOCARBSULF"'
-- '"plant evolution"'
+tags: []
 categories: []
 date: '2018-05-01'
 lastmod: 2020-09-15T20:23:45-04:00
@@ -62,6 +57,5 @@ abstract: Geological redox proxies increasingly point towards low atmospheric ox
   is highly dependent on carbonate carbon isotope evolution, and more accurate predictions
   will come from an improved C isotope record.
 publication: '*American Journal of Science*'
-url_pdf: http://www.ajsonline.org/content/318/5/557
 doi: 10.2475/05.2018.05
 ---

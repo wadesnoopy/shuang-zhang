@@ -11,7 +11,7 @@ authors:
 - Charles Diamond
 - Gordon D. Love
 - Genming Luo
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Kurt O. Konhauser
 - Timothy W. Lyons
 tags: []
@@ -51,6 +51,5 @@ abstract: 'Zhang et al. (1) recently proposed atmospheric oxygen levels of ∼4%
   …   [↵][1]1To whom correspondence should be addressed. Email: noah.planavskyatyale.edu.  [1]:
   #xref-corresp-1-1'
 publication: '*Proceedings of the National Academy of Sciences*'
-url_pdf: https://www.pnas.org/content/113/19/E2550
 doi: 10.1073/pnas.1601925113
 ---

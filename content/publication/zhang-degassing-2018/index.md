@@ -6,15 +6,10 @@ title: Degassing of organic carbon during regional metamorphism of pelites, Wepa
 subtitle: ''
 summary: ''
 authors:
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Jay J. Ague
 - Alberto Vitale Brovarone
-tags:
-- '"Degassing"'
-- '"Carbon isotope"'
-- '"Global carbon cycle"'
-- '"Graphitic carbon"'
-- '"Regional metamorphism"'
+tags: []
 categories: []
 date: '2018-06-01'
 lastmod: 2020-09-15T20:23:45-04:00
@@ -66,6 +61,5 @@ abstract: A comprehensive understanding of the degassing systematics of organic 
   the early degassing of OC after the deposition of organic matter, which could in
   turn help better constrain the degassing of OC during regional metamorphism.
 publication: '*Chemical Geology*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0009254118302237
 doi: 10.1016/j.chemgeo.2018.05.003
 ---

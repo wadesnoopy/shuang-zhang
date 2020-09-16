@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Yang Li
 - Alex J. McCoy-West
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - David Selby
 - Kevin W. Burton
 - Kate Horan
@@ -64,6 +64,5 @@ abstract: Molybdenite-bearing porphyry deposits are the predominant supplier of 
   critical to bridge the gap between ore formation and elemental cycling, and that
   other transition metals (e.g., Cu, Fe, and Zn) may follow similar trajectories.
 publication: '*Economic Geology*'
-url_pdf: https://pubs.geoscienceworld.org/economicgeology/article-abstract/114/5/981/571902/Controlling-Mechanisms-for-Molybdenum-Isotope
 doi: 10.5382/econgeo.4653
 ---

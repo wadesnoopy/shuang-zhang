@@ -9,7 +9,7 @@ authors:
 - Michael J. Henehan
 - Andy Ridgwell
 - Ellen Thomas
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Laia Alegret
 - Daniela N. Schmidt
 - James W. B. Rae
@@ -20,12 +20,7 @@ authors:
 - James R. Super
 - Noah J. Planavsky
 - Pincelli M. Hull
-tags:
-- '"ocean acidification"'
-- '"boron isotopes"'
-- '"Cretaceous/Paleogene boundary"'
-- '"GENIE model"'
-- '"mass extinction"'
+tags: []
 categories: []
 date: '2019-11-01'
 lastmod: 2020-09-15T20:23:45-04:00
@@ -71,6 +66,5 @@ abstract: Mass extinction at the Cretaceous–Paleogene (K-Pg) boundary coincide
   and the way in which marine life imprints its isotopic signal onto the geological
   record.
 publication: '*Proceedings of the National Academy of Sciences*'
-url_pdf: https://www.pnas.org/content/116/45/22500
 doi: 10.1073/pnas.1905989116
 ---

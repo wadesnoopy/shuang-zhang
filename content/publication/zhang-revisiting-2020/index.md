@@ -6,7 +6,7 @@ title: Revisiting groundwater carbon fluxes to the ocean with implications for t
 subtitle: ''
 summary: ''
 authors:
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Noah J. Planavsky
 tags: []
 categories: []
@@ -51,6 +51,5 @@ abstract: Compared with riverine systems, the influence of groundwater on the gl
   and long-term carbon cycle. Therefore, additional work on groundwaters is needed
   to develop a well-constrained view of the global carbon cycle.
 publication: '*Geology*'
-url_pdf: https://pubs.geoscienceworld.org/geology/article/48/1/67/575234/Revisiting-groundwater-carbon-fluxes-to-the-ocean
 doi: 10.1130/G46408.1
 ---

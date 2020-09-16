@@ -6,15 +6,9 @@ title: 'The silicate weathering feedback in the context of ophiolite emplacement
 subtitle: ''
 summary: ''
 authors:
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Noah J. Planavsky
-tags:
-- '"carbon cycle"'
-- '"Cenozoic"'
-- '"silicate weathering"'
-- '"marine isotopes"'
-- '"ophiolite emplacement"'
-- '"weatherability"'
+tags: []
 categories: []
 date: '2019-02-01'
 lastmod: 2020-09-15T20:23:45-04:00
@@ -59,6 +53,5 @@ abstract: Silicate weathering provides a stabilizing feedback in the global carb
   mafic rock weathering in driving climate change in other intervals through Earth's
   history.
 publication: '*American Journal of Science*'
-url_pdf: http://www.ajsonline.org/content/319/2/75
 doi: 10.2475/02.2019.01
 ---

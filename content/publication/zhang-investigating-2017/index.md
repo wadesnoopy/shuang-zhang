@@ -5,20 +5,14 @@ title: Investigating controls on boron isotope ratios in shallow marine carbonat
 subtitle: ''
 summary: ''
 authors:
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Michael J. Henehan
 - Pincelli M. Hull
 - R. Pamela Reid
 - Dalton S. Hardisty
 - Ashleigh v. S. Hood
 - Noah J. Planavsky
-tags:
-- '"ooids"'
-- '"pH proxy"'
-- '"micrite"'
-- '"boron isotopes"'
-- '"Bahama Bank"'
-- '"shallow marine carbonates"'
+tags: []
 categories: []
 date: '2017-01-01'
 lastmod: 2020-09-15T20:23:45-04:00
@@ -70,6 +64,5 @@ abstract: The boron isotope-pH proxy has been widely used to reconstruct past oc
   support for the idea that photosynthetic CO2 uptake plays a significant role in
   driving carbonate precipitation in a wide range of shallow water carbonates.
 publication: '*Earth and Planetary Science Letters*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0012821X16306264
 doi: 10.1016/j.epsl.2016.10.059
 ---
