@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Assistant Professor (beginning 2021)
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +37,7 @@ education:
     year: 2011
 
 social:
-  
+
 - icon: envelope
   icon_pack: fas
   link: "mailto:shuanggang111@gmail.com"  # For a direct email link, use "mailto:test@example.org".
