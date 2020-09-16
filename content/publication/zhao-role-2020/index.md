@@ -5,12 +5,6 @@ title: The role of calcium in regulating marine phosphorus burial and atmospheri
   oxygenation
 subtitle: ''
 summary: ''
-authors:
-- Mingyu Zhao
-- Shuang Zhang
-- Lidya G. Tarhan
-- Christopher T. Reinhard
-- Noah Planavsky
 tags: []
 categories: []
 date: '2020-05-01'
