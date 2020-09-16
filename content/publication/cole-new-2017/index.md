@@ -7,10 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Devon B. Cole
-- Shuang Zhang
+- <b>Shuang Zhang</b>
 - Noah J. Planavsky
+tags: []
+categories: []
+date: '2017-10-01'
 
-publishDate: '2020-09-16T00:26:09.905053Z'
 publication_types:
 - 2
 abstract: The enrichment and depletion of redox sensitive trace metals in marine sediments
