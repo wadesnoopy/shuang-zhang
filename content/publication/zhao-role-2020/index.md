@@ -5,10 +5,16 @@ title: The role of calcium in regulating marine phosphorus burial and atmospheri
   oxygenation
 subtitle: ''
 summary: ''
+authors:
+- Mingyu Zhao
+- Shuang Zhang
+- Lidya G. Tarhan
+- Christopher T. Reinhard
+- Noah Planavsky
 tags: []
 categories: []
 date: '2020-05-01'
-lastmod: 2020-09-15T16:11:42-04:00
+lastmod: 2020-09-15T20:23:46-04:00
 featured: false
 draft: false
 
@@ -26,8 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-15T20:11:42.761146Z'
-author_list: "Mingyu Zhao, <b>Shuang Zhang</b>, Lidya G. Tarhan, Christopher T. Reinhard, Noah J. Planavsky"
+publishDate: '2020-09-16T00:26:11.067811Z'
 publication_types:
 - 2
 abstract: The marine phosphorus cycle plays a critical role in controlling the extent
