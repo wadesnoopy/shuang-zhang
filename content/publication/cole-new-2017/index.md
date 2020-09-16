@@ -54,6 +54,5 @@ abstract: The enrichment and depletion of redox sensitive trace metals in marine
   metal studies, and the use of confidence intervals rather than single average values,
   especially in local studies or in the case of small authigenic enrichments.
 publication: '*Geochimica et Cosmochimica Acta*'
-url_source: http://www.sciencedirect.com/science/article/pii/S0016703717304714
 doi: 10.1016/j.gca.2017.08.004
 ---

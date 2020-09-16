@@ -19,7 +19,7 @@ organizations:
   url: "https://ocean.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: Shuang Zhang loves exploring the global biogeochemical cycles through numerical modeling and data science.
+bio: Shuang Zhang loves exploring the global biogeochemical cycles through numerical modeling and data science.
 
 interests:
 - Global carbon cycle
