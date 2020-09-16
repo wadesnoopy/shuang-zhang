@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-16T00:26:10.012514Z'
+publishDate: '2020-09-16T00:44:43.599486Z'
 publication_types:
 - 2
 abstract: A comprehensive understanding of the degassing systematics of organic carbon

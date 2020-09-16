@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-16T00:26:09.905053Z'
+publishDate: '2020-09-16T00:44:43.488191Z'
 publication_types:
 - 2
 abstract: The enrichment and depletion of redox sensitive trace metals in marine sediments
@@ -55,4 +55,5 @@ abstract: The enrichment and depletion of redox sensitive trace metals in marine
   especially in local studies or in the case of small authigenic enrichments.
 publication: '*Geochimica et Cosmochimica Acta*'
 url_source: http://www.sciencedirect.com/science/article/pii/S0016703717304714
+doi: 10.1016/j.gca.2017.08.004
 ---

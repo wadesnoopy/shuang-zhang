@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-16T00:26:10.488207Z'
+publishDate: '2020-09-16T00:44:44.115194Z'
 publication_types:
 - 2
 abstract: Mass extinction at the Cretaceous–Paleogene (K-Pg) boundary coincides with

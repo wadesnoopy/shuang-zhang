@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-16T00:26:10.395537Z'
+publishDate: '2020-09-16T00:44:44.016512Z'
 publication_types:
 - 2
 abstract: Silicate weathering provides a stabilizing feedback in the global carbon
