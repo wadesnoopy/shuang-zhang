@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-**Check our new group website for updated info ([www.caceelab.space](www.caceelab.space))!**
+**Check our new group website for updated info ([www.caceelab.space](https://www.caceelab.space))**
 
 I am an assistant professor in the Department of Oceanography at Texas A&M University (located in College Station, Texas USA).
 
